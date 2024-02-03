@@ -68,7 +68,7 @@ options:
   -a, --all             Uninstalls all packages (except for a select few).
 ```
 ```
-usage: pipall.py update [-h] [-p PACKAGES] [-f FILE] [-o] [-a]
+usage: pipall update [-h] [-p PACKAGES] [-f FILE] [-o] [-a]
 
 options:
   -h, --help            show this help message and exit
