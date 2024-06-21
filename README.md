@@ -9,7 +9,7 @@ A [**python**](https://www.python.org) script for executing **pip** commands acr
 # Installation
 With `git` [GitHub](https://github.com):
 ```
-git clone https://github.com/IrtsaDevelopment/pipall.git
+git clone https://github.com/irtsa-dev/pipall.git
 ```
 With `pip` [PyPi](https://pypi.org/project/idev-pipall/)
 ```
